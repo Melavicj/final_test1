@@ -3,7 +3,7 @@
 body {
 
    color: white;
-   background-image: url("https://melavicj.github.io/waterfall.jpg");
+   background-image: url(images/waterfall.jpg);
    background-repeat: no-repeat;
    background-size: contain;
    padding-top: 30px;
